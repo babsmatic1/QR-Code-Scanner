@@ -4,20 +4,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
+
 
 ### Screenshot
 
@@ -26,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://qrcode-scanner-alpha.vercel.app/)
-- Live Site URL: [Add live site URL here](https://qrcode-scanner-alpha.vercel.app/)
+- Solution URL: [https://github.com/destinyjob/Qr-Scanner]
+- Live Site URL: [https://qrcode-scanner-alpha.vercel.app/]
 
 ## My process
 - I started by gathering all necessary assets, such as images and designs, and placing them into their respective folders for easy access and proper file structure
@@ -80,5 +76,4 @@ I want to get better at positioning elements properly. I successfully centralize
 - Frontend Mentor - [@destinyjob](https://www.frontendmentor.io/profile/destinyjob)
 - Twitter - [@thedestinyjob](https://x.com/theDestinyJob)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
