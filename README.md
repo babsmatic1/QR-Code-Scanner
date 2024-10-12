@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://qrcode-scanner-alpha.vercel.app/)
+- Live Site URL: [Add live site URL here](https://qrcode-scanner-alpha.vercel.app/)
 
 ## My process
 - I started by gathering all necessary assets, such as images and designs, and placing them into their respective folders for easy access and proper file structure
