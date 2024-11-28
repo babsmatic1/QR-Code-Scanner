@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Sora', sans-serif;
 
 }
 
@@ -21,7 +22,7 @@ body{
 .container{
     display: flex;
     flex-direction: column;
-    background: #fff;
+    background: #05e274;
     height: 500px;
     width: 330px;
     border-radius: 20px;
@@ -48,12 +49,13 @@ h1{
 }
 
 p{
-    color: #68778D;
-    font-size: 15px;
+    color: #ffffff;
+    font-size: 13px;
     text-align: center;
     margin-top: 20px;
     letter-spacing: 0.2px;
     line-height: 140%;
+    margin-left: 20px;
 }
 
 footer{
